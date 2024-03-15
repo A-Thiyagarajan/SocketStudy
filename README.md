@@ -1,5 +1,7 @@
 # Ex.No:1a  			Study of Socket Programming
 
+### Reg.no: 212222240110
+### Name: Thiyagarajan A
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
